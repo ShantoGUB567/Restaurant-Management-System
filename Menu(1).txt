@@ -1,0 +1,4 @@
+1	BBQ Rice Bowl	180	10
+2	Chicken Chowmein	180	5
+3	Beef Chicken Chowmein	230	9
+4	amar matha	08	1

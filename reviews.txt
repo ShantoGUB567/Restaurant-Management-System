@@ -1,0 +1,15 @@
+Customer: shanto
+Item: BBQ
+Rating: 4
+Comment: it was good
+-----------------------------------
+Customer: Shahriar
+Item: Chicken
+Rating: 5
+Comment: nice
+-----------------------------------
+Customer: Suma
+Item: Pizza
+Rating: 5
+Comment: nice
+-----------------------------------
